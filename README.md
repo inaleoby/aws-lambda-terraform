@@ -1,5 +1,3 @@
-# aws-lambda-terraform
-
 
 # AWS SERVERLESS AVEC LAMBDA ET S3
 
@@ -122,3 +120,8 @@ aws-lambda-terraform/
 
 Réalisé par : Kofi Inale OBYMPE  
 GitHub : https://github.com/inaleoby
+
+## Credits
+
+Lab inspiré par le cours de Amadou Merico.
+linkedin : https://www.linkedin.com/in/amadoumerico
